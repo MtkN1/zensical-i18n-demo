@@ -1,0 +1,39 @@
+[project]
+name = "zensical-i18n-demo"
+version = "0.1.0"
+readme = "README.md"
+authors = [
+    { name = "Kent Matsuura", email = "kntm2r@gmail.com" }
+]
+requires-python = ">=3.15"
+dependencies = []
+
+[project.scripts]
+i18n = "zensical_i18n_demo.i18n:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "tomli-w>=1.2.0",
+    "translate-toolkit[markdown]>=3.20.4",
+    "zensical>=0.1.0",
+]
+
+# Languages of the site, ordered by the number of GitHub developers in the
+# top 10 countries (Octoverse 2026). The US and the UK share English.
+[tool.i18n]
+source = "en"
+languages = [
+    { code = "en", name = "English" },              # United States, United Kingdom
+    { code = "hi", name = "हिन्दी" },                 # India
+    { code = "zh", name = "简体中文" },             # China
+    { code = "pt-BR", name = "Português (Brasil)" }, # Brazil
+    { code = "ja", name = "日本語" },               # Japan
+    { code = "id", name = "Bahasa Indonesia" },     # Indonesia
+    { code = "de", name = "Deutsch" },              # Germany
+    { code = "ru", name = "Русский" },              # Russia
+    { code = "fr", name = "Français" },             # France
+]

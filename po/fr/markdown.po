@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-07 01:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.20.4\n"
+"Language: fr\n"
+
+#: docs/markdown.md:1
+msgid "Markdown in 5min"
+msgstr "Markdown en 5 min"
+
+#: docs/markdown.md:3
+msgid "Headers"
+msgstr "Titres"
+
+#: docs/markdown.md:14
+msgid "Text formatting"
+msgstr "Mise en forme du texte"
+
+#: docs/markdown.md:24
+msgid "Links and images"
+msgstr "Liens et images"
+
+#: docs/markdown.md:33
+msgid "Lists"
+msgstr "Listes"
+
+#: docs/markdown.md:49
+msgid "Blockquotes"
+msgstr "Citations"
+
+#: docs/markdown.md:57
+msgid "Code blocks"
+msgstr "Blocs de code"
+
+#: docs/markdown.md:67
+msgid "Tables"
+msgstr "Tableaux"
+
+#: docs/markdown.md:76
+msgid "Horizontal rule"
+msgstr "Ligne horizontale"
+
+#: docs/markdown.md:86
+msgid "Task lists"
+msgstr "Listes de tâches"
+
+#: docs/markdown.md:94
+msgid "Escaping characters"
+msgstr "Caractères d'échappement"
+
+#: docs/markdown.md:100
+msgid "Line breaks"
+msgstr "Sauts de ligne"

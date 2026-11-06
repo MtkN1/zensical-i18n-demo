@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-07 01:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.20.4\n"
+"Language: id\n"
+
+#: zensical.toml:site_name
+msgctxt "site_name"
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: zensical.toml:nav
+msgctxt "nav"
+msgid "Get started"
+msgstr "Mulai"
+
+#: zensical.toml:nav
+msgctxt "nav"
+msgid "Markdown in 5min"
+msgstr "Markdown dalam 5 menit"
+
+#: zensical.toml:theme.palette.toggle.name
+msgctxt "theme.palette.toggle.name"
+msgid "Switch to light mode"
+msgstr "Beralih ke mode terang"
+
+#: zensical.toml:theme.palette.toggle.name
+msgctxt "theme.palette.toggle.name"
+msgid "Switch to dark mode"
+msgstr "Beralih ke mode gelap"
+
+#: zensical.toml:theme.palette.toggle.name
+msgctxt "theme.palette.toggle.name"
+msgid "Switch to system preference"
+msgstr "Beralih ke preferensi sistem"

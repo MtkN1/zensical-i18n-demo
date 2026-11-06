@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-07 01:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.20.4\n"
+"Language: hi\n"
+
+#: docs/index.md:1
+msgid "Get started"
+msgstr "शुरू करें"
+
+#: docs/index.md:3
+msgid "For full documentation visit [zensical.org]{1}."
+msgstr "पूरा दस्तावेज़ देखने के लिए [zensical.org]{1} पर जाएँ।"
+
+#: docs/index.md:5
+msgid "Commands"
+msgstr "कमांड"
+
+#: docs/index.md:7
+#: docs/index.md:9
+msgid "new"
+msgstr "new"
+
+#: docs/index.md:7
+msgid "[`zensical new`]{1} - Create a new project"
+msgstr "[`zensical new`]{1} - नया प्रोजेक्ट बनाएँ"
+
+#: docs/index.md:8
+#: docs/index.md:9
+msgid "serve"
+msgstr "serve"
+
+#: docs/index.md:8
+msgid "[`zensical serve`]{1} - Start local web server"
+msgstr "[`zensical serve`]{1} - लोकल वेब सर्वर शुरू करें"
+
+#: docs/index.md:9
+msgid "build"
+msgstr "build"
+
+#: docs/index.md:9
+msgid "[`zensical build`]{1} - Build your site"
+msgstr "[`zensical build`]{1} - अपनी साइट बनाएँ"
+
+#: docs/index.md:15
+msgid "Examples"
+msgstr "उदाहरण"
+
+#: docs/index.md:17
+msgid "Admonitions"
+msgstr "सूचना बॉक्स"
+
+#: docs/index.md:19
+#: docs/index.md:31
+#: docs/index.md:40
+#: docs/index.md:50
+#: docs/index.md:58
+#: docs/index.md:74
+#: docs/index.md:87
+#: docs/index.md:98
+#: docs/index.md:109
+#: docs/index.md:119
+#: docs/index.md:158
+#: docs/index.md:167
+msgid "Go to [documentation]{1}"
+msgstr "[दस्तावेज़ीकरण]{1} पर जाएँ"
+
+#: docs/index.md:21
+msgid "!!! note"
+msgstr "!!! note"
+
+#: docs/index.md:25
+msgid "!!! warning"
+msgstr "!!! warning"
+
+#: docs/index.md:29
+msgid "Details"
+msgstr "विवरण"
+
+#: docs/index.md:33
+msgid "??? info \"Click to expand for more info\""
+msgstr "??? info \"अधिक जानकारी के लिए क्लिक करें\""
+
+#: docs/index.md:38
+msgid "Code Blocks"
+msgstr "कोड ब्लॉक"
+
+#: docs/index.md:50
+msgid "Code annotations allow to attach notes to lines of code."
+msgstr "कोड एनोटेशन से कोड की पंक्तियों पर नोट जोड़े जा सकते हैं।"
+
+#: docs/index.md:54
+msgid "Code can also be highlighted inline: `#!python print(\"Hello, Python!\")`."
+msgstr ""
+"कोड को इनलाइन भी हाइलाइट किया जा सकता है: `#!python print(\"Hello, Python!\")"
+"`।"
+
+#: docs/index.md:56
+msgid "Content tabs"
+msgstr "कंटेंट टैब"
+
+#: docs/index.md:60
+msgid "=== \"Python\""
+msgstr "=== \"Python\""
+
+#: docs/index.md:66
+msgid "=== \"Rust\""
+msgstr "=== \"Rust\""
+
+#: docs/index.md:72
+msgid "Diagrams"
+msgstr "आरेख"
+
+#: docs/index.md:85
+msgid "Footnotes"
+msgstr "फ़ुटनोट"
+
+#: docs/index.md:89
+msgid "Here's a sentence with a footnote.[^1]"
+msgstr "यहाँ फ़ुटनोट वाला एक वाक्य है।[^1]"
+
+#: docs/index.md:91
+msgid "Hover it, to see a tooltip."
+msgstr "इस पर माउस ले जाएँ, टूलटिप देखने के लिए।"
+
+#: docs/index.md:93
+msgid "[^1]: This is the footnote."
+msgstr "[^1]: यह फ़ुटनोट है।"
+
+#: docs/index.md:96
+msgid "Formatting"
+msgstr "फ़ॉर्मैटिंग"
+
+#: docs/index.md:100
+msgid "==This was marked (highlight)=="
+msgstr "==यह चिह्नित था (हाइलाइट)=="
+
+#: docs/index.md:101
+msgid "^^This was inserted (underline)^^"
+msgstr "^^यह जोड़ा गया था (रेखांकन)^^"
+
+#: docs/index.md:102
+msgid "~~This was deleted (strikethrough)~~"
+msgstr "~~यह हटाया गया था (काटा हुआ)~~"
+
+#: docs/index.md:103
+msgid "H~2~O"
+msgstr "H~2~O"
+
+#: docs/index.md:104
+msgid "A^T^A"
+msgstr "A^T^A"
+
+#: docs/index.md:105
+msgid "++ctrl+alt+del++"
+msgstr "++ctrl+alt+del++"
+
+#: docs/index.md:107
+msgid "Icons, Emojis"
+msgstr "आइकन, इमोजी"
+
+#: docs/index.md:111
+msgid ":sparkles: `:sparkles:`"
+msgstr ":sparkles: `:sparkles:`"
+
+#: docs/index.md:112
+msgid ":rocket: `:rocket:`"
+msgstr ":rocket: `:rocket:`"
+
+#: docs/index.md:113
+msgid ":tada: `:tada:`"
+msgstr ":tada: `:tada:`"
+
+#: docs/index.md:114
+msgid ":memo: `:memo:`"
+msgstr ":memo: `:memo:`"
+
+#: docs/index.md:115
+msgid ":eyes: `:eyes:`"
+msgstr ":eyes: `:eyes:`"
+
+#: docs/index.md:117
+msgid "Maths"
+msgstr "गणित"
+
+#: docs/index.md:121
+msgid "$$ \\cos x=\\sum_{k=0}^{\\infty}\\frac{(-1)^k}{(2k)!}x^{2k} $$"
+msgstr "$$ \\cos x=\\sum_{k=0}^{\\infty}\\frac{(-1)^k}{(2k)!}x^{2k} $$"
+
+#: docs/index.md:125
+msgid "!!! warning \"Needs configuration\""
+msgstr "!!! warning \"कॉन्फ़िगरेशन की आवश्यकता है\""
+
+#: docs/index.md:156
+msgid "Task Lists"
+msgstr "टास्क सूचियाँ"
+
+#: docs/index.md:160
+msgid "[x] Install Zensical"
+msgstr "[x] Zensical इंस्टॉल करें"
+
+#: docs/index.md:161
+msgid "[x] Configure `zensical.toml`"
+msgstr "[x] `zensical.toml` कॉन्फ़िगर करें"
+
+#: docs/index.md:162
+msgid "[x] Write amazing documentation"
+msgstr "[x] शानदार दस्तावेज़ीकरण लिखें"
+
+#: docs/index.md:163
+msgid "[ ] Deploy anywhere"
+msgstr "[ ] कहीं भी डिप्लॉय करें"
+
+#: docs/index.md:165
+msgid "Tooltips"
+msgstr "टूलटिप"
+
+#: docs/index.md:169
+#: docs/index.md:171
+msgid "example"
+msgstr "example"
+
+#: docs/index.md:169
+msgid "[Hover me]{1}"
+msgstr "[मुझ पर होवर करें]{1}"
+
+#: docs/index.md:171
+msgid "I'm a tooltip!"
+msgstr "मैं एक टूलटिप हूँ!"

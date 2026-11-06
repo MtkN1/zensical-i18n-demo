@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-07 01:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.20.4\n"
+"Language: pt_BR\n"
+
+#: docs/index.md:1
+msgid "Get started"
+msgstr "Começar"
+
+#: docs/index.md:3
+msgid "For full documentation visit [zensical.org]{1}."
+msgstr "Para a documentação completa, acesse [zensical.org]{1}."
+
+#: docs/index.md:5
+msgid "Commands"
+msgstr "Comandos"
+
+#: docs/index.md:7
+#: docs/index.md:9
+msgid "new"
+msgstr "new"
+
+#: docs/index.md:7
+msgid "[`zensical new`]{1} - Create a new project"
+msgstr "[`zensical new`]{1} - Cria um novo projeto"
+
+#: docs/index.md:8
+#: docs/index.md:9
+msgid "serve"
+msgstr "serve"
+
+#: docs/index.md:8
+msgid "[`zensical serve`]{1} - Start local web server"
+msgstr "[`zensical serve`]{1} - Inicia um servidor web local"
+
+#: docs/index.md:9
+msgid "build"
+msgstr "build"
+
+#: docs/index.md:9
+msgid "[`zensical build`]{1} - Build your site"
+msgstr "[`zensical build`]{1} - Compila o seu site"
+
+#: docs/index.md:15
+msgid "Examples"
+msgstr "Exemplos"
+
+#: docs/index.md:17
+msgid "Admonitions"
+msgstr "Blocos de destaque"
+
+#: docs/index.md:19
+#: docs/index.md:31
+#: docs/index.md:40
+#: docs/index.md:50
+#: docs/index.md:58
+#: docs/index.md:74
+#: docs/index.md:87
+#: docs/index.md:98
+#: docs/index.md:109
+#: docs/index.md:119
+#: docs/index.md:158
+#: docs/index.md:167
+msgid "Go to [documentation]{1}"
+msgstr "Acesse a [documentação]{1}"
+
+#: docs/index.md:21
+msgid "!!! note"
+msgstr "!!! note"
+
+#: docs/index.md:25
+msgid "!!! warning"
+msgstr "!!! warning"
+
+#: docs/index.md:29
+msgid "Details"
+msgstr "Detalhes"
+
+#: docs/index.md:33
+msgid "??? info \"Click to expand for more info\""
+msgstr "??? info \"Clique para expandir e ver mais informações\""
+
+#: docs/index.md:38
+msgid "Code Blocks"
+msgstr "Blocos de código"
+
+#: docs/index.md:50
+msgid "Code annotations allow to attach notes to lines of code."
+msgstr "Anotações de código permitem anexar notas às linhas de código."
+
+#: docs/index.md:54
+msgid "Code can also be highlighted inline: `#!python print(\"Hello, Python!\")`."
+msgstr ""
+"O código também pode ser destacado em linha: `#!python print(\"Hello, "
+"Python!\")`."
+
+#: docs/index.md:56
+msgid "Content tabs"
+msgstr "Abas de conteúdo"
+
+#: docs/index.md:60
+msgid "=== \"Python\""
+msgstr "=== \"Python\""
+
+#: docs/index.md:66
+msgid "=== \"Rust\""
+msgstr "=== \"Rust\""
+
+#: docs/index.md:72
+msgid "Diagrams"
+msgstr "Diagramas"
+
+#: docs/index.md:85
+msgid "Footnotes"
+msgstr "Notas de rodapé"
+
+#: docs/index.md:89
+msgid "Here's a sentence with a footnote.[^1]"
+msgstr "Aqui está uma frase com uma nota de rodapé.[^1]"
+
+#: docs/index.md:91
+msgid "Hover it, to see a tooltip."
+msgstr "Passe o mouse sobre ele para ver uma dica."
+
+#: docs/index.md:93
+msgid "[^1]: This is the footnote."
+msgstr "[^1]: Esta é a nota de rodapé."
+
+#: docs/index.md:96
+msgid "Formatting"
+msgstr "Formatação"
+
+#: docs/index.md:100
+msgid "==This was marked (highlight)=="
+msgstr "==Este texto foi marcado (destaque)=="
+
+#: docs/index.md:101
+msgid "^^This was inserted (underline)^^"
+msgstr "^^Este texto foi inserido (sublinhado)^^"
+
+#: docs/index.md:102
+msgid "~~This was deleted (strikethrough)~~"
+msgstr "~~Este texto foi excluído (riscado)~~"
+
+#: docs/index.md:103
+msgid "H~2~O"
+msgstr "H~2~O"
+
+#: docs/index.md:104
+msgid "A^T^A"
+msgstr "A^T^A"
+
+#: docs/index.md:105
+msgid "++ctrl+alt+del++"
+msgstr "++ctrl+alt+del++"
+
+#: docs/index.md:107
+msgid "Icons, Emojis"
+msgstr "Ícones, emojis"
+
+#: docs/index.md:111
+msgid ":sparkles: `:sparkles:`"
+msgstr ":sparkles: `:sparkles:`"
+
+#: docs/index.md:112
+msgid ":rocket: `:rocket:`"
+msgstr ":rocket: `:rocket:`"
+
+#: docs/index.md:113
+msgid ":tada: `:tada:`"
+msgstr ":tada: `:tada:`"
+
+#: docs/index.md:114
+msgid ":memo: `:memo:`"
+msgstr ":memo: `:memo:`"
+
+#: docs/index.md:115
+msgid ":eyes: `:eyes:`"
+msgstr ":eyes: `:eyes:`"
+
+#: docs/index.md:117
+msgid "Maths"
+msgstr "Matemática"
+
+#: docs/index.md:121
+msgid "$$ \\cos x=\\sum_{k=0}^{\\infty}\\frac{(-1)^k}{(2k)!}x^{2k} $$"
+msgstr "$$ \\cos x=\\sum_{k=0}^{\\infty}\\frac{(-1)^k}{(2k)!}x^{2k} $$"
+
+#: docs/index.md:125
+msgid "!!! warning \"Needs configuration\""
+msgstr "!!! warning \"Requer configuração\""
+
+#: docs/index.md:156
+msgid "Task Lists"
+msgstr "Listas de tarefas"
+
+#: docs/index.md:160
+msgid "[x] Install Zensical"
+msgstr "[x] Instale o Zensical"
+
+#: docs/index.md:161
+msgid "[x] Configure `zensical.toml`"
+msgstr "[x] Configure o `zensical.toml`"
+
+#: docs/index.md:162
+msgid "[x] Write amazing documentation"
+msgstr "[x] Escreva documentação incrível"
+
+#: docs/index.md:163
+msgid "[ ] Deploy anywhere"
+msgstr "[ ] Publique em qualquer lugar"
+
+#: docs/index.md:165
+msgid "Tooltips"
+msgstr "Dicas de ferramenta"
+
+#: docs/index.md:169
+#: docs/index.md:171
+msgid "example"
+msgstr "example"
+
+#: docs/index.md:169
+msgid "[Hover me]{1}"
+msgstr "[Passe o mouse aqui]{1}"
+
+#: docs/index.md:171
+msgid "I'm a tooltip!"
+msgstr "Sou uma dica de ferramenta!"
